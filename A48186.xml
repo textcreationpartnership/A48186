@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a member of Parliament concerning guards and garrisons</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48186</idno>
+            <idno type="STC">Wing L1668</idno>
+            <idno type="STC">ESTC R36359</idno>
+            <idno type="EEBO-CITATION">15667874</idno>
+            <idno type="OCLC">ocm 15667874</idno>
+            <idno type="VID">104332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a member of Parliament concerning guards and garrisons</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated: From Newport in the Isle of Wight, Dec. 30, 1698.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Military --  1603-1714.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104332:1"/>
+            <p>A LETTER TO A Member of Parliament CONCERNING GUARDS AND GARISONS</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Baldwin</hi> in <hi>Warwicklane,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104332:2"/>
+            <pb n="3" facs="tcp:104332:2"/>
+            <head>A LETTER TO A Member of Parliament CONCERNING <hi>Guards</hi> and <hi>Gariſons.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am not aſhamed to own that I was once of opini<g ref="char:EOLhyphen"/>on that a Standing Army was neceſſary, nor that I owe my Converſion to the printed Controverſy upon that Subject, which was managed very une<g ref="char:EOLhyphen"/>qually. On the one ſide there appears throughout the whole that irreſiſtible Spirit of Truth which is inſepa<g ref="char:EOLhyphen"/>rable from a good Cauſe: On the other part there is ſo much Prevarication, ſuch mumbling of Thiſtles, and
+<pb n="4" facs="tcp:104332:3"/>drawing in their Breath every moment, and withal ſuch weak Arguments, lowneſs of Thought, and flatneſs of Expreſſion, that the Reader might be tempted to think they had loſt their Wits with their Integrity. But this Controverſy is now at an end, ſince the whole Body of the People in two Parliaments have given a Sanction to the juſter opinion, and (with a true Roman Reſolution worthy their Illuſtrious Predeceſſors, worthy the nobleſt, the manlieſt, the beſt cauſe in the World, the cauſe of Liberty) have declared, that they have Courage, Ho<g ref="char:EOLhyphen"/>neſty and Wiſdom enough to defend themſelves, and that they want no Keepers. Nor was this Debate car<g ref="char:EOLhyphen"/>ried on with that Heat and Faction which is often found in Popular Aſſemblies; no levelling at the Miniſtry, nor wreaking their private Diſcontents under the notion of Publick Service. But it was managed with that Gravity, that Sedateneſs, that Candour, and yet with that Noble Conſtancy, as might convince the whole World that their Reſolutions were the Reſults of the moſt mature Conſideration, and unſhaken Love to their Country, and Zeal for Liberty. This is declaring in Characters legible to all <hi>Europe,</hi> that it was not private Reſentment, popular Faction, or a propenſity to change, but a juſt ſenſe of our Country's Liberty, that made us throw off our late Allegiance. It ſhows that we did not expel our King, but that we depoſed a Tyrant. Whereas if we had been ſo tranſported by our Fortune, ſo debauched in our Underſtandings, and ſo deſtitute of all ſenſe of Love and Honour due to our Native Country, as to have allowed that to one King for which we depoſed another, we had been the ſcorn and reproach of Mankind, and juſtly called Traytors, Cowards, and Fools.</p>
+            <p>However ungrateful this Vote may appear to Flatter<g ref="char:EOLhyphen"/>ers
+<pb n="5" facs="tcp:104332:3"/>and Courtiers (who are but Inſects bred and nouriſh<g ref="char:EOLhyphen"/>ed out of the Corruption and Stench of bad Govern<g ref="char:EOLhyphen"/>ments) yet I doubt not but his Majeſty will conſider it almoſt as the unanimous Opinion of that People whot voluntarily offered him two moſt potent Crowns, ſet him at the head of the Force and Councils of the greateſt Confederacy that has been ever united, and ſupported him through the War at a Charge that neither We nor our Forefathers ever knew, till at laſt they enabled him to humble his powerful Adverſary, and bring him to Terms both ſafe and honourable. Nor did their Affection ter<g ref="char:EOLhyphen"/>minate with the War: For though we were in debt near 20000000 <hi>l.</hi> they have increaſed the Civil Liſt beyond what it was known in the Reigns of any of his Prede<g ref="char:EOLhyphen"/>ceſſors, and ſettled a great Revenue upon him for Life to ſupport it. Nay, this very Parliament have given all the Teſtimony of their Duty which can be conſiſtent with their Country's Safety; They have choſen a Speaker out of his own Family, and have left him 7000 men for Guards and Gariſons; which, if our Courtiers were honeſt, they would not ſo much as pretend to be neceſſa<g ref="char:EOLhyphen"/>ry. For if we dare take the word of a noble Lord (who has never diſtinguiſhed himſelf by his averſion to arbi<g ref="char:EOLhyphen"/>trary Power, or hatred to Armies) 3000 men are e<g ref="char:EOLhyphen"/>nough to ſupply the Gariſons, and double as many as were eſtabliſhed in <hi>Charles</hi> the 2d's time for that purpoſe. Then what Reaſon, or rather what Colour is there for 4000 Guards?</p>
+            <p>I will not enter upon ſo invidious a Subject, as that Guards about the King's Perſon are both unneceſſary and dangerous, tho <hi>Ariſtotle</hi> has made it the diſtinguiſhing mark of Arbitrary Power to have them, and many more Princes have been murder'd than protected by them; nay, even at
+<pb n="6" facs="tcp:104332:4"/>this time in our neighbouring Country of <hi>Spain,</hi> tho the King has much more power than we think conſiſtent with our Conſtitution, yet he has no Guards: and not many years ſince, when their King attempted, to raiſe but a ſin<g ref="char:EOLhyphen"/>gle Regiment, it was ſo reſented, that if they had not been quickly disbanded, the whole Nation had been in Arms, thinking it ignoble and diſhonourable that their King ſhould rather truſt his Perſon with a few Men of deſperate Fortunes, and not of the beſt Morals, than with his Nobility, Gentry, and loyal People.</p>
+            <p>However, ſince this Doctrine is not Orthodox, I will take it for granted that Guards are neceſſary about the King's Perſon: but at the ſame time I dare affirm that his three Troops of Horſe, and one Regiment of Foot (which need not exceed 1200 Men) are more than ſufficient for that purpoſe, though his Majeſty was to be better attend<g ref="char:EOLhyphen"/>ed than ever I ſaw him. Then what pretence is there for keeping the remaining 2800? What colour is there for keeping Guards at the <hi>Savoy,</hi> or indeed in the Tower?</p>
+            <p>Are they kept there to defend the City, or to bridle the Citizens? which, as <hi>Macchiavel</hi> ſays, is the only uſe of Citadels. If the former, we can tell them, that the City has 20000 Militia to defend themſelves, and 200000 Men more that will be ready to take Arms upon occaſi<g ref="char:EOLhyphen"/>on, and better Men too than an Army will be, when they have been debauch'd and enervated with peace and idleneſs; which if they doubt, let them remember the time when a new Army raiſed ſuddenly out of the City, vanquiſhed the King's veteran Troops.</p>
+            <p>If they keep them to bridle the Citizens, that's our Complaint, and indeed is the only proper and natural uſe of Standing Forces in times of Peace. But why muſt the
+<pb n="7" facs="tcp:104332:4"/>City of <hi>London</hi> be gariſoned more than any other inland-part of the Kingdom? Was ever a Prince better beloved, or a City more loyal? why then muſt they be awed by Citadels?</p>
+            <p>Perhaps it may be ſaid, that the Tower is the chief Ma<g ref="char:EOLhyphen"/>gazine of the King's Artillery, Arms, and Ammunition, which ought to be well guarded, to prevent a ſurprize. But why may not the Militia of <hi>London</hi> do duty there by turns? who if they are good for nothing elſe, ſure may be truſted to defend the King's Stores. We ſee the Bank of <hi>England,</hi> which is the Repoſitory of as great Treaſure, is defended by a very few Men. How was the Tower defended before this Incroachment of Armies grew upon us? but then indeed it was a Priſon, and now it is grown into a Gariſon.</p>
+            <p>Beſides, what end can there be in attempting to ſur<g ref="char:EOLhyphen"/>prize it? It can't be defended againſt a Prince that is be<g ref="char:EOLhyphen"/>loved, many days; and whoever does attempt ſo deſpe<g ref="char:EOLhyphen"/>rate an Action, is ſure to pay for his diſobedience with his Life; which is all the ſecurity we have that his Majeſty is not aſſaſſinated every day: for whoever will ſacrifice himſelf, is maſter of any Man's Life.</p>
+            <p>I have not laboured this matter ſo much to miſrepreſent the Parliament's Proceedings, or leſſen their affection to his Majeſty, as to ſtop the mouths of a few Unreaſonable Men, who calumniate the Houſe of Commons as undu<g ref="char:EOLhyphen"/>tiful to their King, and regardleſs of their Countries ſafe<g ref="char:EOLhyphen"/>ty; whereas I think I have made it appear, that they have allowed him near double as many Forces as are ne<g ref="char:EOLhyphen"/>ceſſary; which makes me the more wonder how ſome Unthinking Men are impoſed upon by calling a few Land, Regiments by the name of Mariners, and prevailed with to think them neceſſary.</p>
+            <pb n="8" facs="tcp:104332:5"/>
+            <p>And becauſe this Subject has not been handled by thoſe Gentlemen who have exhauſted the reſt of the Argu<g ref="char:EOLhyphen"/>ment, I will take that task upon my ſelf, and by the next Poſt will ſend you my thoughts upon that affair, and en<g ref="char:EOLhyphen"/>deavour to ſhew that the Eſtabliſhment of the Mariners is a uſeleſs charge to the Nation, a Nuſance to the Navy, and dangerous to the Kingdom's Liberties.</p>
+            <closer>
+               <dateline>
+                  <hi>From</hi> Newport <hi>in the Iſle of</hi> Wight, <date>Dec. 30. 1698.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
